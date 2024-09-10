@@ -1,0 +1,41 @@
+# first level heading
+## second level heading
+### third level heading
+
+<!-- Styling text -->
+
+## About the author
+Name
+Falculty
+
+
+# example of README.md file
+
+[!NOTE]
+Note information
+
+[!TIP]
+Helpful advice
+
+[!IMPORTANT]
+Key Information
+
+[!WARNING]
+Urgent
+
+[!CAUTION]
+Advises about risks or negative outcomes of certain actions
+
+<!-- This content will not appear in the rendered Markdown -->
+**This is bold tex**
+__This is bold text__
+
+
+
+simple footnote [^1].
+
+a footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: to add line breaks withing a footnote, prefix new lines with 2 spaces.
+
